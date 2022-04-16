@@ -52,9 +52,9 @@ function App() {
             pluginRenderers={[PDFRenderer]}
             documents={docs}
             theme={{
-              primary: "#5296d8",
-              secondary: "#ffffff",
-              tertiary: "#5296d899",
+              primary: "#3d4b59",
+              secondary: "#92A0AD",
+              tertiary: "#92A0AD",
               text_primary: "#ffffff",
               text_secondary: "#5296d8",
               text_tertiary: "#00000099",
