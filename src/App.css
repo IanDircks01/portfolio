@@ -6,12 +6,11 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.Icon {
-  opacity: 1;
+.SectionTitle {
+  font-size: calc(15px + 2vh);
 }
 
 .Icon:hover {
